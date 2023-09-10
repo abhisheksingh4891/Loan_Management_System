@@ -1,6 +1,6 @@
 # Loan_Management_System
 
-**Abstract** 
+**ABSTRACT** 
 
 Today's web-based technology offers many online services in almost every field. Every major industry is converting and establishing a digital front for all their major operations to get closer to the booming digital market. In today's world the information flow is very fast and redundant means won't add to the betterment of the individual or the organization that's using them. Online connectivity is now a must for all the well organized and well managed establishments. One such field is banking where the digitization of information should happen rapidly and efficiently. This paper addresses that particular region and paves a way for the creation of a software or website that help to make easy for the customer to get their loan passed by an appointment from anywhere, any time. These will help the people save their time. By these they can book and appointment with. Also, there data will be store in a loan management system automatically and these will help them to Analyse record how many times and when they visit in website and also, they can store their proper data in the website hence it will beneficial for them to manage their records online rather than making and file or hard copy. Hence record can be store permanently for many year. 
 
@@ -26,8 +26,8 @@ Our project will relatively solve both problem cases
 2.1 We have chosen a project from a project basket that have been shared with us and decided to make a loan management website. 
 2.2 In our group 5 member are there and we divide our work equally in 4 parts. 
 2.3 We have selected appropriate software tools to complete our project like vscode , xampp ,phpMyAdmin,mongo db etc. 
-2.4  Then we made a rough structure of our website decide every element cover every aspect and started working on project.  
-2.5 we have used vscode software for making and designing website our website using HTML and CSS. The data in the website is inserted using html and animations and designing were given by css . 
+2.4 Then we made a rough structure of our website decide every element cover every aspect and started working on project.  
+2.5 We have used vscode software for making and designing website our website using HTML and CSS. The data in the website is inserted using html and animations and designing were given by css . 
 2.6 I have made backend database to store data using xampp and phpmyadmin and done some other designing work of our project. 
 2.7 Futher we have created a backend database using xampp and phpMyAdmin software tool which allow user to fill the data in  the form and that data is stored in the local host for father access. 
 2.8 We tried to keep our project user friendly and easy to use and understand with a limited knowledge we tried to cover every  aspect of an website. 
@@ -39,3 +39,15 @@ Our project will relatively solve both problem cases
 2.	Nowadays, it has become easy to get information through websites. No newspaper, magazines and interviews etc are required because each and every information is easily available on the website. 
 3.	It helps in reaching the information to large number of visitors in minimum time. Modes of information is faster than the way before. 
 4.	It can be the centralized source of information. 
+
+**SCREENSHOTS**
+
+![Picture2](https://github.com/abhisheksingh4891/Loan_Management_System/assets/75315222/094ab157-c433-4d5d-8c1e-4f68443756b3)
+
+![Picture3](https://github.com/abhisheksingh4891/Loan_Management_System/assets/75315222/d6ec49e8-ada6-4c7a-9c46-d9aab998652d)
+
+![Picture5](https://github.com/abhisheksingh4891/Loan_Management_System/assets/75315222/8761a511-bcf5-4bb6-9fd7-2f89f72f8ab7)
+
+![Picture6](https://github.com/abhisheksingh4891/Loan_Management_System/assets/75315222/6f5f6293-68b8-458e-ad12-54db9b4bcc7c)
+
+
